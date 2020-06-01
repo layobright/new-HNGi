@@ -1,4 +1,4 @@
-## Introduction
+#  Introduction
 
 My names are **Ayodeji Oladimeji Daniel**, I'm a 300 Level computer science student of National Open University Of Nigeria.
 
@@ -9,7 +9,7 @@ I always want to give my designs different behaviour irrespective of the design.
 
 ----
 
-### My Major
+## My Major
 
 In my opinion, what defines a good front-end developer is one that has skilled knowledge of HTML, CSS, JS with a vast understanding
 of User design thinking, as they’ll be building web interfaces with accessibility in mind. And also a frontend developer should also be excited to learn,
@@ -17,6 +17,7 @@ as the world of Front-End Development keeps evolving.
 
 Presently i'm a Frontend developer with the proper skills of **HTML, CSS, JAVASCRIPT, JQUERY** and a little skills of **PHP**.
 With this idea i was able to come up with a mini website for computer science students in National Open University of Nigeria.
+
 Also i have different landing pages i created for dating sites.
 
 Having a working understanding of HTML, CSS and JS is certainly a no-brainer, but it’s only one part of the equation.
@@ -26,7 +27,7 @@ perhaps above all, an willingness to listen to and accept criticism.
 
 ----
 
-#### Pathway to Github
+###  Pathway to Github
 
 - My first experience was learning how to create a repository, I expanded my experience with Branching in Git.
 
@@ -40,7 +41,7 @@ perhaps above all, an willingness to listen to and accept criticism.
 
 ----
 
-##### My Dreams
+#### My Dreams
 
 HNGi internship is the greatest opportunity i've been waiting for all my life, because this is the first time i will partake in any program that involves coding.
 
@@ -52,7 +53,7 @@ if i get the chance to move to the next phase of this mission, then i'm fully re
 
 ----
 
-###### Conclusion
+#####  Conclusion
 
 I appreciate HNGi for bringing up this program to support talented developers around the globe,May God continue to bless and Strengthen the **CEO** of the organisation and all the support teams.
 
